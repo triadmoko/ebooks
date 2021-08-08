@@ -1,9 +1,11 @@
 # Daftar Ebook
-```terminal
+```terminal.
 ├── Android-Developer
 ├── Back-End
 │   ├── Data Stucture Algorithms
 │   │   └── Dsa.pdf
+│   ├── GoLang
+│   │   └── dasarpemrogramangolang.pdf
 │   ├── Javascript
 │   │   └── Belajar Dengan Jenius Deno (Early Version).pdf
 │   ├── nodjs
@@ -24,6 +26,7 @@
 │   ├── 10. -Ebook- IELTS Reading Recent Tests with Answer Key.pdf
 │   ├── (2) Check_Your_Vocabulary_for_IELTS_Examination.pdf
 │   ├── 31_ALL+ENGLISH+CARCEP.pdf
+│   ├── Buku_Durusul_Lughoh_Al-Arabiyyah.7z
 │   ├── Carcep TBI STAN-1.pdf
 │   ├── DOC-20200123-WA0017.pdf
 │   ├── DOC-20200123-WA0025.pdf
@@ -36,6 +39,7 @@
 │   ├── DOC-20200123-WA0037.pdf
 │   ├── DOC-20200123-WA0038.pdf
 │   ├── DOC-20200123-WA0042.pdf
+│   ├── E-Module BILINGUAL Level I.pdf
 │   ├── English Grammar for Dummies.pdf
 │   ├── latihan-soal-tpa-1.pdf
 │   ├── MATERI 1 SENTENCE PATTERN.pdf
@@ -58,7 +62,8 @@
 │   └── Django
 │       └── django.pdf
 ├── Front-End
-│   └── Belajar HTML Dasar Pengertian HTML v2.pdf
+│   ├── Belajar HTML Dasar Pengertian HTML v2.pdf
+│   └── Guide_ATM_Mandiri.pdf
 ├── jurnal
 │   ├── 1384-3219-1-SM.pdf
 │   └── implementasi docker container dengan moodle e-learning.pdf
@@ -69,5 +74,6 @@
 └── Tools
     └── GIT
         └── progit.pdf
+
 
 ```
